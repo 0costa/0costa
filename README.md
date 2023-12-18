@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=195px align="center" src="https://github-readme-stats.vercel.app/api?username=0costa&bg_color=000000&text_color=ffffff&hide_border=true" />
+    <img width="40%" height=195px align="center" src="https://github-readme-stats.vercel.app/api?username=0costa&bg_color=000000&text_color=ffffff&hide_border=true" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a width="40%" href="https://github.com/anuraghazra/convoychat">
     <img  height=195px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0costa&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&hide_border=true" />
   </a>
 </div>
