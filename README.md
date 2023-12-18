@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" height=195px align="center" src="https://github-readme-stats.vercel.app/api?username=0costa&bg_color=000000&text_color=ffffff&hide_border=true" />
+    <img width="40%" height=195px  src="https://github-readme-stats.vercel.app/api?username=0costa&bg_color=000000&text_color=ffffff&hide_border=true" />
   </a>
   <a width="40%" href="https://github.com/anuraghazra/convoychat">
-    <img  height=195px align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0costa&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&hide_border=true" />
+    <img  height=195px  src="https://github-readme-stats.vercel.app/api/top-langs?username=0costa&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&hide_border=true" />
   </a>
 </div>
 
-<div><h1></h1></div>
+<h1></h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0costa&bg_color=000000&color=faf5f5&line=4fa19f&point=05ffd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
