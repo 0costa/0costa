@@ -1,17 +1,35 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008B8B&height=120&section=header">
+# 👋 Olá! 
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?color=5F9EA0&size=45&center=true&vCenter=true&width=1500&lines=Olá!+Me+chamo+Kelvin,+23+anos.;Graduando+em+Análise+e+desenvolvimento+de+sistemas)](https://git.io/typing-svg) 
-<h1></h1>
+## 👨🏻‍💻 Sobre mim
+* 💡 Atualmente estou migrando para a área de tecnologia, com foco em backend.
+* 💻 Tenho um projeto na empresa varejista em que trabalho, que consiste em uma aplicação desktop desenvolvida em Python, que auxilia a empresa a organizar e controlar os extratos bancários de mais de 200 lojas.
+* 🎓 Estou cursando Análise e Desenvolvimento de Sistemas pela Uninter, com previsão de conclusão para 2025. Além disso, tenho realizado cursos extras focados em backend em plataformas como Alura e YouTube.
+* 🌱 Atualmente, estou dedicando meus esforços para aprender mais sobre todo o ecossistema de desenvolvimento backend em torno do Python/Django.
+* ✉️ Você pode entrar em contato comigo por e-mail através de kelvindc09@gmail.com.
+<br>
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="40%" height=195px  src="https://github-readme-stats.vercel.app/api?username=0costa&bg_color=000000&text_color=ffffff&hide_border=true" />
-  </a>
-  <a width="40%" href="https://github.com/anuraghazra/convoychat">
-    <img  height=195px  src="https://github-readme-stats.vercel.app/api/top-langs?username=0costa&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff&hide_border=true" />
-  </a>
+
+## 📫 Contatos:
+
+<div>
+<a href = "mailto:contato@kelvindc09@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/kelvin-costa-749342211/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<br>
+<br>
+<br>
 </div>
 
-<h1></h1>
+## 🛠 Ferramentas e Tecnologias
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=0costa&bg_color=000000&color=faf5f5&line=4fa19f&point=05ffd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" bg_color="ffffff"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+<br>
+<br>
+<br>
+
+## 📊 Github Status
+<div>
+<a href="https://github.com/0costa">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0costa&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=0costa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
