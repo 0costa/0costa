@@ -1,13 +1,3 @@
-# 👋 Olá! 
-<br>
-
-## 👨🏻‍💻 Sobre mim
-* 💡 Atualmente estou migrando para a área de tecnologia, com foco em backend;
-* 💻 Tenho um projeto na empresa em que trabalho, que consiste em uma aplicação desktop desenvolvida em Python, que auxilia a organizar e controlar os extratos bancários de mais de 200 lojas;
-* 🎓 Estou cursando Análise e Desenvolvimento de Sistemas pela Uninter, com previsão de conclusão para 2025. Além disso, tenho realizado cursos extras focados em backend em plataformas como Alura e YouTube;
-* 🌱 Atualmente, estou dedicando meus esforços para aprender mais sobre todo o ecossistema de desenvolvimento backend em torno do Python/Django;
-* ✉️ Você pode entrar em contato comigo por e-mail através de kelvindc09@gmail.com.
-<br>
 
 
 ## 📫 Contatos:
